@@ -8,7 +8,9 @@ In this directory you will find a basic description of parameter setup and simul
 
 ## Projections and image cubes
 
-This section describes the code used to convert to Cartesian coordinates and then to reproject onto 2D radio maps of simulated radio synchrotron using scaled pressure as a proxy for emissivity. This is also the place to find example movie scripts for visualising jets from a variety of perspectives. 
+This section describes the code used to convert to Cartesian coordinates and then to reproject onto 2D radio maps of simulated radio synchrotron using scaled pressure as a proxy for radio lobe emissivity. Where this was not possible (such as within the lobes) we used a Mach mask to show the structure of the jets. This had the additional benefit of showing changes in local sound speed within the lobes. 
+
+This is also the place to find example movie scripts for visualising jets from a variety of perspectives. 
 
 ## Feature Tracking
 
