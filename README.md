@@ -1,2 +1,3 @@
-# pluto-simulations
-Repo for old numerical (M)HD simulations (2017-2022) plus visualisation code
+# PLUTO simulations
+
+This repo is for scripts of precessing extragalactic radio jets as simulated with PLUTO hydrodynamical software between 2017 and 2022. It also contains visualisation code for manipulating and projecting image cubes, creating movies of jet lifecycles, and tracking jet, lobe and hotspot features throughout the active lifecycle of the jet. There are also features for monitoring and tracking fade-out from adiabatic expansion after AGN quenching. Three kinds of explicit feature tracking examples are provided (along with limitations and development), but many more features can be developed with the code.
